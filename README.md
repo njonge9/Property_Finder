@@ -1,24 +1,8 @@
-# README
+# About the project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my week 2 challenge of creating a real world website:
+    *This is a real estate website
+    * I will be updating the readme file until it is complete
+    
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
