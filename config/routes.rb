@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
+  root 'homepage#home'
   resources :properties
   devise_for :users
-  root 'homepage#home'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
