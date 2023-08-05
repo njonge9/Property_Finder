@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get 'dashboard/index'
+  get 'dashboard/properties'
+  get 'dashboard/reports'
   root 'homepage#home'
   resources :properties
   devise_for :users
